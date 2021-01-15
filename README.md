@@ -11,12 +11,6 @@
     '" type="text/javascript">'+'\x3C/scr'+'ipt>');
 })();
 </script>
-
- 
-
-2. Schließen Sie den Premiumcontent in die div-Klasse p402_premium ein, sodass damit die Mikroumfrage angezeigt und der Premiumcontent ausgegraut werden können.
- 
-
 <div class="p402_premium">
     <!-- YOUR PREMIUM CONTENT HERE -->
 </div>
